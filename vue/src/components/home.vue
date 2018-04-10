@@ -4,7 +4,7 @@
 		<div class="content">
 			<left-mune></left-mune>
 			<div class="pages">
-				{{msg}}
+				
 			</div>
 		</div>
 	</div>
